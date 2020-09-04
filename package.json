@@ -10,7 +10,7 @@
     "@types/react-dom": "16.9.4",
     "@types/react-virtualized": "^9.21.5",
     "classnames": "^2.2.6",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-icons": "^3.8.0",
